@@ -10,12 +10,6 @@
     "start": "npm run build:watch & nodemon ./dist/server.js --watch ./dist",
     "generate": "node ./dist/cli.js"
   },
-  "author": {
-    "name": "Mantas Miliukas",
-    "email": "mantasm@wix.com"
-  },
-  "homepage": "https://github.com/wix-incubator/mjml-react-example",
-  "bugs": "https://github.com/wix-incubator/mjml-react-example/issues",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
